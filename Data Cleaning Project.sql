@@ -157,3 +157,14 @@ DROP COLUMN row_num;
 
 SELECT * 
 FROM layoffs_staging2;
+
+
+
+
+
+
+
+
+
+
+
